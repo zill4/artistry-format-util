@@ -1,0 +1,7 @@
+site_name: Format Util
+site_url: https://sjohnsonaz.github.io/artistry-format-util
+repo_url: https://github.com/sjohnsonaz/artistry-format-util
+copyright: Copyright &copy; 2019 Sean Johnson
+pages:
+    - Home: index.md
+theme: readthedocs
